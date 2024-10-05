@@ -1,0 +1,20 @@
+# EzParcelFinal
+ 
+## .env Format
+
+PORT=8000
+DB_URL="mongodb://localhost:27017/proton-ass1"
+CLOUDINARY_NAME=""
+CLOUDINARY_API_KEY=""
+CLOUDINARY_API_SECRET=""
+ACTIVATION_SECRET="HiText12333"
+SMPT_HOST="smtp.gmail.com"
+SMPT_PORT=587
+SMPT_SERVICE="Gmail"
+SMPT_MAIL=""
+SMPT_PASSWORD=""
+JWT_SECRET_KEY="HiText12333"
+JWT_EXPIRES=7d  # or whatever expiration time you want
+STRIPE_SECRET_KEY=""
+STRIPE_PUBLIC_KEY=""
+
